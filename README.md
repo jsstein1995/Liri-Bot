@@ -11,3 +11,5 @@ SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 
 Enjoy!
+
+![Screen Shot 2019-04-12 at 6 20 23 PM](https://user-images.githubusercontent.com/46974642/56070913-4ea95d80-5d50-11e9-9c09-88e7ac2aa14c.png)
